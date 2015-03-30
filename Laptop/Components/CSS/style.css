@@ -1,0 +1,72 @@
+.laptop-monitor-container{
+	width: 250px;
+	height: 112px;
+	overflow: hidden;
+}
+.laptop-monitor {
+	border: 5px solid #58595b;
+	border-bottom: none;
+	border-radius: 6px;
+	width: 200px;
+	height: 112px;
+	margin: 0 auto;
+	background-color: #e6e7e8;
+}
+.red{
+	width: 175px;
+	height: 25px;
+	background-color: #f5bba0;
+	margin: 11px;
+}
+.blue{
+	width: 117px;
+	height: 55px;
+	background-color: #b1e0eb;
+	margin-left: 11px;
+}
+.green{
+	width: 47px;
+	height: 55px;
+	background-color: #d1e39c;
+	margin-left: 11px;
+}
+.laptop-keyboard {
+	width: 250px;
+	height: 10px;
+	border: none;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-color: #6d6e70;
+}
+.laptop-touchpad{
+	background-color: #58595b;
+	width: 48px;
+	height: 4px;
+	margin: 0 auto;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+}
+.float-left{
+	float: left;
+}
+.clear-float{
+	clear: both;
+}
+.triangle{
+	position: absolute;
+	top: 5px;
+	left: 95px;
+	width: 0;
+	height: 0;
+	border-top: 0px solid transparent;
+	border-bottom: 108px solid transparent;
+	border-right: 58px solid rgba(255, 255, 255, .65);
+}
+.fill-triangle-shade{
+	position: absolute;
+	top: 5px;
+	left: 153px;
+	width: 72px;
+	height: 107px;
+	background-color: rgba(255, 255, 255, .65);
+}

@@ -12,5 +12,6 @@ namespace Laptop.Controllers
         {
             return View();
         }
+
     }
 }

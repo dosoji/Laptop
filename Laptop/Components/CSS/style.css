@@ -1,3 +1,6 @@
+.laptop{
+	position: relative;
+}
 .laptop-monitor-container{
 	width: 250px;
 	height: 112px;
